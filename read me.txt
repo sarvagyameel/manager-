@@ -1,2 +1,4 @@
-cd C:\Users\Acer\Desktop\manger+
+this is FLASK PROJECT 
+TO EXECUTE RUN BELOW FILE
+
 python main.py
